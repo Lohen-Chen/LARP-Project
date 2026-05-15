@@ -4,7 +4,7 @@ Built by Joseph, Lohen, Shourya, Krishnansh for the Linear Algebra project.
 
 ## Stack
 
-- **Pure static site** — `index.html`, vanilla JS, CSS.
+- **Pure static site** — Basic HTML, vanilla JS, CSS.
 - **p5.js** loaded from CDN for the viewport canvas.
 - **Vercel** for hosting.
 
