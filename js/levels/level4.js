@@ -20,9 +20,7 @@ const Level4 = (() => {
     const host = document.getElementById('p5-host');
     host.innerHTML = `
       <div class="stub">
-        <h3>LEVEL 04 :: AWAITING_BUILD</h3>
-        <p>Perspective projection — 3D into 2D via P.</p>
-        <p class="blink">> stand by</p>
+        <h3>LEVEL 04 :: under construction</h3>
       </div>
     `;
   }

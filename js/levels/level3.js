@@ -19,9 +19,7 @@ const Level3 = (() => {
     const host = document.getElementById('p5-host');
     host.innerHTML = `
       <div class="stub">
-        <h3>LEVEL 03 :: AWAITING_BUILD</h3>
-        <p>3D rotation + translation in homogeneous coordinates.</p>
-        <p class="blink">> stand by</p>
+        <h3>LEVEL 03 :: under construction</h3>
       </div>
     `;
   }
