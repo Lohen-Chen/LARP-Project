@@ -65,4 +65,4 @@ Plus the shared helpers:
 Look at `level1.js` for the canonical pattern.
 
 ## Run locally
-I like to use live server to test before pushing any commits. 
+I like to use Live Server by Ritwick Dey to test before pushing any commits. 
