@@ -4,7 +4,7 @@ Built by Joseph, Lohen, Shourya, Krishnansh for the Linear Algebra project.
 
 ## Stack
 
-- **Pure static site** — `index.html`, vanilla JS, CSS.
+- **Pure static site** — Basic HTML, vanilla JS, CSS.
 - **p5.js** loaded from CDN for the viewport canvas.
 - **Vercel** for hosting.
 
@@ -65,4 +65,4 @@ Plus the shared helpers:
 Look at `level1.js` for the canonical pattern.
 
 ## Run locally
-I like to use live server to test before pushing any commits. 
+I like to use Live Server by Ritwick Dey to test before pushing any commits. 
